@@ -51,3 +51,5 @@ if __name__=="__main__":
         description=u"用例执行情况："
     )
     runner.run(testunit)
+	develop fun1()
+	develop fun2()
