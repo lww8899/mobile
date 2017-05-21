@@ -53,3 +53,4 @@ if __name__=="__main__":
     runner.run(testunit)
 	develop fun1()
 	develop fun2()
+	fix add
