@@ -54,5 +54,6 @@ if __name__=="__main__":
 	develop fun1()
 	develop fun2()
 	develop fun3()
+	decode lsl()
 	develop fun3()
 	fix add
