@@ -51,4 +51,9 @@ if __name__=="__main__":
         description=u"用例执行情况："
     )
     runner.run(testunit)
-fix add
+	develop fun1()
+	develop fun2()
+	develop fun3()
+	decode lsl()
+	develop fun3()
+	fix add
